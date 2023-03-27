@@ -13,6 +13,14 @@ This solutions accelerator is a head start on developing and deploying a machine
 
 <img src="https://github.com/rafaelvp-db/dbx-insurance-qa-hugging-face/blob/master/img/Insurance(1).png?raw=true" />
 
+### Requirements
+
+Please use the following package and environment versions when running this on Databricks:
+
+* [Databricks Machine Learning Runtime 12.0](https://docs.databricks.com/release-notes/runtime/12.0ml.html)
+* `pytorch_lightning==1.8.6`
+* `transformers==4.23.1`
+
 ### Authors
 
 * Rafael Piere ([rafael.pierre@databricks.com](mailto:rafael.pierre@databricks.com))
